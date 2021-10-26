@@ -1,0 +1,12 @@
+.name {
+    text-align: center;
+    border: 1px solid black;
+    position: static;
+    width: 100%;
+    background: #ecbaea;
+
+    }
+
+ a {
+    color: darkred;
+  }
